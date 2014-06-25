@@ -1,4 +1,4 @@
 Simple-Slideshow
 ================
 
-Created by jQuery
+Created with jQuery
